@@ -91,12 +91,6 @@ App will be live on `http://localhost:3000`.
 
 ---
 
-## 📸 UI Preview
-
-![AI Flashcards Wireframe](./public/flashcard-wireframe.png)
-
----
-
 ## 🧠 Inspiration
 
 Personal project to explore:
